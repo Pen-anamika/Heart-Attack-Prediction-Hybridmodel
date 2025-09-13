@@ -66,3 +66,6 @@ If you use this code, please cite:
   year         = {2024},
   howpublished = {\url{https://github.com/Pen-anamika/Heart-Attack-Prediction-Hybridmodel}}
 }
+
+## 📄 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
