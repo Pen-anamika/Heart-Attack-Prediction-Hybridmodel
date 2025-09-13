@@ -40,3 +40,29 @@ A pre-processed version (`preprocessed_heart_attack.csv`) with imputation, encod
    jupyter notebook Hybrid_Model.ipynb
 
 4. Run all cells to reproduce training and evaluation.
+
+## 📊 Results
+
+On the held-out test set, the hybrid stacked model achieved:
+
+Accuracy: 94.24%
+
+Precision: 94.71%
+
+Recall: 93.54%
+
+F1 Score: 94.20%
+
+AUC-ROC: 98%
+
+Visualisations (confusion matrices, ROC curves) are generated in the notebook.
+
+📝 Citation
+
+If you use this code, please cite:
+@misc{Baruah2024HybridStacked,
+  author       = {Anamika Baruah},
+  title        = {A Hybrid Stacked Ensemble Framework for Heart Disease Prediction},
+  year         = {2024},
+  howpublished = {\url{https://github.com/Pen-anamika/Heart-Attack-Prediction-Hybridmodel}}
+}
